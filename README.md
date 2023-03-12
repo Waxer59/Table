@@ -1,9 +1,9 @@
-# Notas:
+# Commands:
 ```
-Opciones:
-      --help     Muestra ayuda                                        [booleano]
-      --version  Muestra número de versión                            [booleano]
-  -b, --base     Es la base de la tabla de multiplicar      [número] [requerido]
-  -l, --listar   Muestra la tabla en consola                    [defecto: false]
-  -h, --hasta    Limite de la tabla                       [número] [defecto: 10]
+Options:
+      --help     Show help                                           [boolean]
+      --version  Displays version number                             [boolean]
+  -b, --base     It is the basis of the multiplication table         [number] [required]
+  -l, --listar   Displays the table in console                       [default: false]
+  -h, --hasta    Table limit                                         [number] [default: 10]
 ```
